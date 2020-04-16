@@ -1,5 +1,5 @@
 # Vagrant Basics
-##Create a Vagrant File
+## Create a Vagrant File
 ```commandline
 vagrant init bento/ubuntu-16.04
 ```
